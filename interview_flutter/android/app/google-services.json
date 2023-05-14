@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026224257603",
+    "project_id": "naser-side-kick",
+    "storage_bucket": "naser-side-kick.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026224257603:android:e8f2b5dc67943f5bbef2f6",
+        "android_client_info": {
+          "package_name": "com.example.interview_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026224257603-a5otc35li5hbr9ejo8fqh6i2k8lnfcsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLi_RB8vj5H6XhTWzQZn8Gf5J4aEOyKc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026224257603-a5otc35li5hbr9ejo8fqh6i2k8lnfcsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
