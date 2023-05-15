@@ -1,0 +1,15 @@
+C:\Users\star\source\repos\PizzaBE\PizzaBE.Application\bin\Debug\net5.0\PizzaBE.Application.deps.json
+C:\Users\star\source\repos\PizzaBE\PizzaBE.Application\bin\Debug\net5.0\PizzaBE.Application.dll
+C:\Users\star\source\repos\PizzaBE\PizzaBE.Application\bin\Debug\net5.0\PizzaBE.Application.pdb
+C:\Users\star\source\repos\PizzaBE\PizzaBE.Application\bin\Debug\net5.0\PizzaBE.Domain.dll
+C:\Users\star\source\repos\PizzaBE\PizzaBE.Application\bin\Debug\net5.0\PizzaBE.Domain.pdb
+C:\Users\star\source\repos\PizzaBE\PizzaBE.Application\obj\Debug\net5.0\PizzaBE.Application.csproj.AssemblyReference.cache
+C:\Users\star\source\repos\PizzaBE\PizzaBE.Application\obj\Debug\net5.0\PizzaBE.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\star\source\repos\PizzaBE\PizzaBE.Application\obj\Debug\net5.0\PizzaBE.Application.AssemblyInfoInputs.cache
+C:\Users\star\source\repos\PizzaBE\PizzaBE.Application\obj\Debug\net5.0\PizzaBE.Application.AssemblyInfo.cs
+C:\Users\star\source\repos\PizzaBE\PizzaBE.Application\obj\Debug\net5.0\PizzaBE.Application.csproj.CoreCompileInputs.cache
+C:\Users\star\source\repos\PizzaBE\PizzaBE.Application\obj\Debug\net5.0\PizzaBE.Application.csproj.CopyComplete
+C:\Users\star\source\repos\PizzaBE\PizzaBE.Application\obj\Debug\net5.0\PizzaBE.Application.dll
+C:\Users\star\source\repos\PizzaBE\PizzaBE.Application\obj\Debug\net5.0\refint\PizzaBE.Application.dll
+C:\Users\star\source\repos\PizzaBE\PizzaBE.Application\obj\Debug\net5.0\PizzaBE.Application.pdb
+C:\Users\star\source\repos\PizzaBE\PizzaBE.Application\obj\Debug\net5.0\ref\PizzaBE.Application.dll
